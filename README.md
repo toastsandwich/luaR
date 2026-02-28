@@ -199,9 +199,7 @@ luaR/
 ├── parser.go      # Lua parser
 ├── parser_test.go # Parser tests
 ├── luar.go        # Decoder/Encoder implementation
-├── luar_test.go   # Decoder/Encoder tests
-└── examples/
-    └── config.lua # Example Lua config file
+└── luar_test.go   # Decoder/Encoder tests
 ```
 
 ## License
